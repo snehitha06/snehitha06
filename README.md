@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snehitha06
-- 👀 I’m interested in data science and web dev
+- 👀 I’m interested in data science,ML and web dev
 - 🌱 I’m currently studying at thapar institute
 - 💞️ I’m looking for some internships
 - 📫 How to reach me- mail me at snehithamulapalli06@gmail.com
